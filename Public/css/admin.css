@@ -1,0 +1,80 @@
+/*TODO: Yeni Eser Eleme Alanını CSS BAşlangıç */
+#PushDiv{
+   width: 90%;
+   height: auto;
+   min-width: 300px;
+   border: 1px solid rgba(155, 155, 155, 0.614);
+   margin: auto;
+   margin-top: 30px;
+
+}
+.Altdiv{
+   width: 100%;
+   min-height: 50px;
+   border: 1px solid rgba(126, 126, 126, 0.322);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+.endDiv{
+   width: 300px;
+   min-height: 70px;
+ 
+   padding-left: 30px;
+}
+.endDiv label{
+   display: block;
+
+}
+.endDiv input{
+   display: block;
+   width: 230px;
+   height: 40px;
+   font-size: 19px;
+
+}
+.endDiv select{
+   display: block;
+   width: 230px;
+   height: 40px;
+   font-size: 19px;
+
+}
+.endDiv button{
+   display: block;
+   width: 120px;
+   height: 40px;
+   font-size: 19px;
+   text-align: center;
+   border: none;
+   margin: auto;
+   margin-top: 20px;
+   border-radius: 20px;
+   background-color: gray;
+   color: white;
+
+}
+/*TODO: Yeni Eser Eleme Alanını CSS Bitiş */
+
+
+
+
+/*! Admin şifre yeri ver admin alanında ürün güncelleme kısmınıın geçiçi css leri */
+ #formAdminLogin {
+   width: 300px;
+   margin: auto;
+   border: 1px solid gray;
+   padding: 20px;
+   border-radius: 10px;
+   margin-top: 70px;
+}
+
+.AdminDetaiOrtak{
+   display: block;
+   margin: auto;
+   text-align: center;
+}
+
+/*! Admin şifre yeri ver admin alanında ürün güncelleme kısmınıın geçiçi css leri */
+
